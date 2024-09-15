@@ -15,3 +15,6 @@ This project provides weather and air quality updates for a specified city and s
 
    ```bash
    git clone https://github.com/yourusername/Weather-Notifier.git
+   
+##Api-Key
+-for the api-key make an account on openweather,there you can get api-key 
