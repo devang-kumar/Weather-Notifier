@@ -3,7 +3,7 @@ from gtts import gTTS
 import os
 import json
 
-api_key = '4ba831ca1ba6b9c344651a003d0409d6'
+api_key = '*****************'
 
 state = input("Enter state name: ").capitalize()
 city = input("Enter a city name: ")
