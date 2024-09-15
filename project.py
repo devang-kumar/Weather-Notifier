@@ -3,7 +3,7 @@ from gtts import gTTS
 import os
 import json
 
-api_key = '*****************'
+api_key = '*****************' #for the api-key ,make an account on openweather ,there you will get a api-key,which you have to use here.
 
 state = input("Enter state name: ").capitalize()
 city = input("Enter a city name: ")
